@@ -21,7 +21,7 @@ The resulting coordinates are presented using four 7-segment display outputs.
 - Represent the coordinates using four 7-segment displays.
 
 ## System Architecture
-
+![VHDL Edge Detection Architecture](VHDL%20Edge%20Detection%20Architecture.png)
 The system consists of the following functional stages:
 
 1. Image data input
